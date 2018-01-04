@@ -147,7 +147,7 @@
                                 if (!empty($data)){
                                 echo "
                                         <form method = 'post'>
-                                        <input type='submit' class='remove btn btn-danger' name='remove$count' value='Remove' />
+                                        <input type='submit' class='remove btn btn-danger' name='remove$count' value='Remove $count' />
                                         </form>
                                     ";
                                 }
